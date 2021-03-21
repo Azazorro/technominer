@@ -1,0 +1,2 @@
+# TEXHOminer
+Cryptocurrencies miner
